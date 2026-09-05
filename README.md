@@ -3,11 +3,11 @@ End-to-End Accounting Cycle in Excel
 
 A full accounting cycle for a simulated company, built entirely in Excel from raw, messy transaction data through a complete set of linked financial statements. Built to demonstrate hands-on Excel and accounting skills: Power Query, VBA macros, SUMIFS, INDEX/MATCH, and double-entry accounting. All data used in this project is simulated for demonstration purposes.
 
-What's in the workbook
+**What's in the workbook:**
 
 The_Final_Project.xlsm walks through the full accounting cycle for a simulated company:
 
-Messy/raw data: the original, inconsistent transaction data before any cleanup
+**Messy/raw data:** the original, inconsistent transaction data before any cleanup
 Power Query cleaning: raw data is capitalized, trimmed, split, merged, and de-duplicated into one consistent format
 Transaction Log: 115+ transactions in a clean, structured format, formatted automatically with a VBA macro
 T-Accounts: beginning balances, March activity (via SUMIFS), and ending balances for every account
